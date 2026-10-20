@@ -1,0 +1,12 @@
+{
+  "name": "sadman-fahmid-raj-portfolio",
+  "version": "1.0.0",
+  "description": "Tactile skeuomorphic portfolio for Sadman Fahmid Raj, inspired by jackiezhang.co.za",
+  "scripts": {
+    "dev": "npx serve -l 3001 .",
+    "start": "npx serve -l 3001 ."
+  },
+  "keywords": ["portfolio", "product-design", "skeuomorphic"],
+  "author": "Sadman Fahmid Raj",
+  "license": "MIT"
+}

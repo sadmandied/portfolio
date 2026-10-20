@@ -1,0 +1,58 @@
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+
+# Archives & Temporary Files
+*.zip
+*.tmp
+*.bak
+
+# Test / Debug Artifacts & Scripts
+scratch_*.js
+snap_*.png
+test_*.js
+test_*.png
+step*.png
+p[1-7]_*.png
+card*.png
+check_*.png
+check_*.js
+capture_*.js
+debug_*.js
+fresh_*.js
+fresh_*.png
+track_*.js
+verify_*.js
+inspect_*.js
+find_*.js
+apply_*.js
+bump_cache.js
+extract_video.js
+audit_site.js
+audit_results.json
+run_server.py
+generate_*.js
+generate_*.py
+desktop_*.png
+mobile_*.png
+work_very_bottom.png
+scroll_verification_snaps/
+upward_frames/
+preview_*.png
+sadman-portfolio/
+
+final_*.png
+final_*.js
+jackie*.html
+snap_*.js
+step_*.js
