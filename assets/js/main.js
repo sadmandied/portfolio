@@ -1,6 +1,6 @@
 /**
  * Sadman Fahmid Raj - Portfolio Interactions
- * Faithfully inspired by jackiezhang.co.za
+ * Personal Portfolio - Sadman Fahmid Raj
  * Includes:
  * 1. Web Audio API Acoustic Melody Synthesizer (Take Me Home, Country Roads)
  * 2. Draggable & Tiltable Polaroids on the Green Cutting Mat

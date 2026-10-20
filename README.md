@@ -1,60 +1,39 @@
 # Sadman Fahmid Raj — Personal Portfolio
 
-A skeuomorphic portfolio website inspired by [jackiezhang.co.za](https://jackiezhang.co.za), crafted for **Sadman Fahmid Raj**.
+An interactive, skeuomorphic portfolio website featuring custom physics, tactile paper textures, interactive project showcases, and expedition logs.
 
-## ✨ Design & Visual Features
-
-- **Skeuomorphic Leather Journal**: Gold foil embossed typography, stitched edges, silk ribbon bookmark, and location badge (`Dhaka • GMT +6:00`).
-- **Tactile Paper Notebook**: Grid paper aesthetic with washi tape, binder rings, and 3 Core Belief cards with authentic doodle stickers (lucky cat, noodles, flower, hornbill, aeropress, juicebox).
-- **Green Self-Healing Cutting Mat**: Metric centimeter rulers, grid texture, and **interactive, draggable, tiltable Polaroids** with washi tape.
-- **Physical Case Studies (Work Page)**:
-  - **Bash**: Apparel clothing tag with hanging string, barcode, and metrics.
-  - **Pulse**: Athlete POV streaming with telemetry map.
-  - **Heygo**: Perforated admission ticket with barcode and notches.
-  - **Dotslash**: Retro CRT terminal with scanline overlay.
-  - **Side Quests**: Spiral bound notebook cards with realistic metal coils.
-- **Story & Sticky Notes (About Page)**: 3 pinned sticky notes (*What fuels my soul*, *Stuff I nerd out on*, *What gives me energy*).
-- **Interactive Checklist**: Clickable checklist on lined notepad.
-- **Audio Synthesizer**: Web Audio API synthesis playing the acoustic melody of *"Take Me Home, Country Roads"* with animated visualizer bar.
-- **Continuous Marquee Ticker**: Infinite running ticker tape along the page border.
-- **Film Frame Rulers**: Retro 35mm film perforations and frame numbers along desktop margins.
-- **Connect Postcard Modal**: Airmail postcard dialog with quick copy-to-clipboard button and toast alert.
+**Live Website:** [https://sadmanfahmidraj.me](https://sadmanfahmidraj.me)
 
 ---
 
-## 🚀 How to Run Locally
+## 🌟 Featured Projects
 
-You can run this project with zero dependencies:
-
-### Option 1: Directly in Browser
-Simply double-click `index.html` in file explorer to open it in Chrome, Edge, Safari, or Firefox.
-
-### Option 2: Using Python Simple Server
-```bash
-cd "C:\Users\Sadman\.gemini\antigravity\scratch\sadman-portfolio"
-python -m http.server 3000
-```
-Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-### Option 3: Using Node / Vite / npx serve
-```bash
-npx serve .
-```
+- **ASCI (Sadman.Portfolio)** — Terminal ASCII art visualizer with real-time video-to-ASCII rendering.
+- **WhatsApp Engine** — High-speed multi-contact outreach pipeline and messaging automation tool.
+- **git-pie** — Interactive Git visualizer and commit topology analyzer.
+- **BloodNet** — Real-time donor connection, hospital dispatch, and emergency matching platform.
 
 ---
 
-## 📁 Project Structure
+## 🗺️ Side Quests & Expeditions
 
-```
-sadman-portfolio/
-├── index.html           # Home page
-├── work.html            # Work case studies page
-├── about.html           # About & personal notes page
-├── README.md            # Documentation & deployment guide
-├── assets/
-│   ├── css/
-│   │   └── style.css    # Full tactile skeuomorphic stylesheet
-│   ├── js/
-│   │   └── main.js      # Drag & drop, Web Audio synth, modal & toggles
-│   └── images/          # Local high-res textures, stickers & polaroids
-```
+Field logs, travels, and explorations across Bangladesh:
+- **Rajshahi (2024)** — Silk City & Padma Riverbanks
+- **Cox's Bazar (2024)** — Marine Drive & Endless Coastline
+- **Shitakundo (2025)** — Chandranath Ridge & Waterfalls
+- **Shunamganj (2025)** — Tanguar Haor & Wetland Expanse
+- **Sylhet (2025)** — Tea Estates & Emerald Springs
+- **Mirinja Valley (2025)** — Sea of Clouds & Highland Peaks
+
+---
+
+## 🛠️ Tech Stack & Design System
+
+- **Framework:** Framer React Engine / Static HTML5 / ES Modules
+- **Palette:** Deep Matte Canvas (`#212121`), Warm Paper Surface (`#f5e1cd`), Accent Scarlet (`#ff3366`)
+- **Typography:** Awesome Serif, Departure Mono, Gochi Hand
+- **Hosting:** Custom domain via GitHub Pages with automated SSL
+
+---
+
+© 2024–2026 Sadman Fahmid Raj. All rights reserved.
